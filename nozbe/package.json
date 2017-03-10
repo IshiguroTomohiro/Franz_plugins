@@ -1,0 +1,23 @@
+{
+  "name": "nozbe",
+  "version": "1.0.0",
+  "description": "nozbe",
+  "main": "index.js",
+  "author": "Tomohiro Ishiguro <se.ishiguro.tomohiro@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://nozbe.com/",
+    "serviceName": "Nozbe",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
