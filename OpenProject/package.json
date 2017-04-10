@@ -1,0 +1,23 @@
+{
+  "name": "openproject",
+  "version": "1.0.0",
+  "description": "openproject",
+  "main": "index.js",
+  "author": "Tomohiro Ishiguro <se.ishiguro.tomohiro@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://projects.cardano-labo.com/projects/",
+    "serviceName": "OpenProject",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
